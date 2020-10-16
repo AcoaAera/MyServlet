@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:00:19:32 +0500] "POST /testServlet HTTP/1.1" 200 4957 http-bio-3346-exec-1 2908
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:00:19:34 +0500] "GET /testServlet?filePath=basnja_10.txt HTTP/1.1" 200 - http-bio-3346-exec-3 17
